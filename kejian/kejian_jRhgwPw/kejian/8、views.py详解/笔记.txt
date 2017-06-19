@@ -1,0 +1,3 @@
+request对象详解
+response对象详解（render，httpresponse，render_to_response）
+redirect
